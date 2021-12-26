@@ -1,0 +1,10 @@
+In Python， you can 使用列表
+In Python， you can 元组
+In Python， you can 字典
+In Python， you can 切片
+In Python， you can for循环
+In Python， you can while循环
+In Python， you can 类
+In Python， you can 实例
+In Python， you can 处理异常
+In Python， you can 编写测试代码
