@@ -11,6 +11,7 @@ class TestEmployee(unittest.TestCase):
 
     def test_give_raise_by_default(self):
         self.assertTrue(self.employee.give_raise() == 6000)
+
         self.employee.anual_salary = 1000
         self.assertFalse(self.employee.give_raise() == 3000)
         self.employee.anual_salary = 1000
